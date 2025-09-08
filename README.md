@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Aqiba aka Sulphite</h1>
 <h3 align="center">An Undergrad Computer Engineer brimming with innovative ideas</h3>
 
-- 🔭 I’m currently working on **Obey The Testing Goat**
+- 🔭 I’m currently working on my FYP, **On-edge PPE Detection**
 
-- 🌱 I’m currently learning **TDD and GenAI**
+- 🌱 I’m currently learning **Verilog and CNNs**
   
-- 💬 Ask me about **Python**
+- 💬 Ask me about **My Journey**
 
 - 😄 Pronouns: **She/Her**
 <br />
