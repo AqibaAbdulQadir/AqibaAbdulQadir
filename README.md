@@ -27,14 +27,14 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sulphite05&show_icons=true&locale=en&layout=compact" alt="sulphite05" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AqibaAbdulQadir&show_icons=true&locale=en&layout=compact" alt="AqibaAbdulQadir" /></p>
 <br /> 
 <h2 align="left">LeetCode Stats:</h2>
 <p align="center"> <img align="center" src="https://leetcard.jacoblin.cool/sulphite?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Stats"/></p>
 <h2 align="left">GitHub Stats:</h2>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sulphite05&theme=radical" alt="GitHub Streak" alt="sulphite05"/></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AqibaAbdulQadir&theme=radical" alt="GitHub Streak" alt="AqibaAbdulQadir"/></p>
 
-![](https://komarev.com/ghpvc/?username=sulphite05&color=orange)
+![](https://komarev.com/ghpvc/?username=AqibaAbdulQadir&color=orange)
 
 
 
